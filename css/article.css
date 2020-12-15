@@ -6,6 +6,29 @@
     padding: 8em;
 }
 
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the header */
+header {
+    background-color: #666;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+
+/* Container for flexboxes */
+section {
+    display: -webkit-flex;
+    display: flex;
+}
+
 /* Style the navigation menu */
 .side-menu {
     -webkit-flex: 1;
@@ -28,4 +51,12 @@ article {
     flex: 3;
     background-color: #f1f1f1;
     padding: 10px;
+}
+
+/* Style the footer */
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
 }
