@@ -33,7 +33,7 @@ background-attachment: fixed;
 }
 .bgimage h1 {
 position: absolute;
-color:white;
+color:#E6E6FA;
 text-align: center;
 top: 4rem;
 left: 30%;
@@ -41,7 +41,7 @@ text-shadow:2px 2px #333;
 }
 
 .bgimage h5 {
-color: white;
+color: #E6E6FA;
 position: absolute;
 text-align: center;
 top: 11rem;
