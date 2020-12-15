@@ -18,17 +18,17 @@
     background-attachment: fixed;
 }
 .bgimage h3 {
-    color:white;
     position: absolute;
-    top: 90%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    color:white;
+    top: 3rem;
+    left: 27%;
+    text-shadow:2px 2px #333;
 }
 
 .bgimage p {
     color: white;
     position: absolute;
-    top: 20%;
+    top: 10rem;
     left: 50%;
     transform: translate(-50%, -50%);
 }
