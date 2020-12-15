@@ -41,7 +41,7 @@ body{
 }
 
 #footer {
-    padding-top: 2rem;
+    top: 2rem;
     text-align: center;
     padding-bottom: 20px;
     background-color: #343C44;
