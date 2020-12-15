@@ -27,19 +27,20 @@ header {
 section {
     display: -webkit-flex;
     display: flex;
+    position: relative;
 }
 
 /* Style the navigation menu */
-.side-menu {
+nav {
     -webkit-flex: 1;
     -ms-flex: 1;
     flex: 1;
     background: #ccc;
-    padding: 20px;
+    padding: 2rem;
 }
 
 /* Style the list inside the menu */
-.side-menu ul {
+nav ul {
     list-style-type: none;
     padding: 0;
 }
