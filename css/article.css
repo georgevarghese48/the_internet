@@ -5,6 +5,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     padding: 8em;
+    margin-bottom: 0;
 }
 
 * {
@@ -20,6 +21,7 @@ section {
     display: -webkit-flex;
     display: flex;
     position: relative;
+    margin-top: 0;
 }
 
 /* Style the navigation menu */
