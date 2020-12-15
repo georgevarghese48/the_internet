@@ -34,7 +34,7 @@ section {
 }
 .bgimage h1 {
   position: absolute;
-  color:#E6E6FA;
+  color: white;
   text-align: center;
   top: 4rem;
   left: 30%;
@@ -42,7 +42,7 @@ section {
 }
 
 .bgimage h5 {
-  color: #E6E6FA;
+  color: white;
   position: absolute;
   text-align: center;
   top: 11rem;
