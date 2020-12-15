@@ -23,15 +23,17 @@ body{
 .bgimage h1 {
     position: absolute;
     color:white;
-    top: 3rem;
+    text-align: center;
+    top: 4rem;
     left: 40%;
     text-shadow:2px 2px #333;
 }
 
-.bgimage p {
+.bgimage h5 {
     color: white;
     position: absolute;
-    top: 10rem;
+    text-align: center;
+    top: 11rem;
     left: 50%;
     transform: translate(-50%, -50%);
 }
