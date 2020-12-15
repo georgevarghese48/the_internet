@@ -39,3 +39,10 @@ body{
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+#footer {
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: #343C44;
+    color: white;
+}
