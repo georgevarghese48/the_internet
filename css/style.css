@@ -25,6 +25,7 @@ section {
 .bgimage {
     width:100%;
     height: 300px;
+    color: ghostwhite;
     background: url('../imgs/hero-img.jpg');
     background-repeat: no-repeat;
     background-position: center;
