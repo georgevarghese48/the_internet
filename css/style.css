@@ -1,9 +1,12 @@
 body{
     font-family: "Helvetica Neue";
+    background-color: #B1A296;
 }
 
 .container-fluid{
     padding-bottom: 2rem;
+    padding-left: 10rem;
+
 }
 .card-horizontal {
     display: flex;
@@ -14,8 +17,12 @@ body{
 
 .card {
     margin: auto;
+    text-align: center;
     width: 75%;
     box-shadow: 10px 10px 5px grey;
+    padding-bottom: 2rem;
+    background-color: #343C44;
+    color: white;
 }
 
 section {
@@ -38,7 +45,7 @@ section {
     color:white;
     text-align: center;
     top: 4rem;
-    left: 40%;
+    left: 34%;
     text-shadow:2px 2px #333;
 }
 
@@ -47,12 +54,13 @@ section {
     position: absolute;
     text-align: center;
     top: 11rem;
-    left: 50%;
+    left: 44%;
     transform: translate(-50%, -50%);
 }
 
+
 footer {
-    padding-top: 1rem;
+    padding-top: 2rem;
     text-align: center;
     padding-bottom: 20px;
     background-color: #343C44;
