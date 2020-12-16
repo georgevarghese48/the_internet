@@ -52,11 +52,11 @@ article {
     -webkit-flex: 3;
     -ms-flex: 3;
     flex: 3;
-    background-color: #B1A296;
+    background-color: royalblue;
     padding: 10px;
     color: white;
 }
-/*#B1A296 */
+
 article p{
     width: 90%;
     padding-left: 1rem;
